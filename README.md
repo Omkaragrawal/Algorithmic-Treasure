@@ -1,3 +1,5 @@
+<img src = "https://github.com/Abhijit2505/Algorithmic-Treasure/blob/master/LetsUpgrad/letsupgrad.png" height = "70">
+
 # **Algorithmic Treasure**
 
 **Project ID: 19**
