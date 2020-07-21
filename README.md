@@ -7,7 +7,7 @@ Many time, when an interview approaches, candidates start searching for differen
 
 
 >## 📂&nbsp; RELEVANT TECHNOLOGY
-Any web technology can be used but I am thinking about using Python ecosystem.
+We will be using CPP and Python to code out the algorithms and will be using HTML/CSS and BootStrap to make our website.
 
 * CPP
 * Python
