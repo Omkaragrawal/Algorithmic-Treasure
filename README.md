@@ -1,4 +1,4 @@
-<img src = "https://github.com/Abhijit2505/Algorithmic-Treasure/blob/master/LetsUpgrad/letsupgrad.png" height = "70">
+<img src = "https://github.com/Abhijit2505/Algorithmic-Treasure/blob/master/LetsUpgrade/letsupgrad.png" height = "70">
 
 # **Algorithmic Treasure**
 
